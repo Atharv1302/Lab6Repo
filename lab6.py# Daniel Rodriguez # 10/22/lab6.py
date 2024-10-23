@@ -1,5 +1,5 @@
-# Daniel Rodriguez
-# 10/22/2024
+# Atharv Gupta
+# 10/23/2024
 # Encode string of 8 numbers by shifting each digit up by 3
 def encode(inputPassword):
     encodedPassword = ''
