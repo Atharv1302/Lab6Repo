@@ -26,7 +26,7 @@ def main():
         print('2. Decode')
         print('3. Quit\n')
         option = int(input('Please enter the option choice to perform: '))
-        
+
         if option == 1:
             inputPassword = input('Please enter the password desired to be encoded: ')
             encodedPassword = encode(inputPassword)
@@ -40,4 +40,4 @@ def main():
         print()
       
 if __name__ == '__main__':
-  main()
+    main()
